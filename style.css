@@ -76,6 +76,7 @@
     height: 30px;
     border: none;
     background-color: white;
+    outline: none;
 }
 .button{
     display: flex;
@@ -89,6 +90,10 @@ button{
     background-color: #f8f9fa;
     border: none;
     color: #535557;
+    outline: none;
+}
+.fa-search{
+    margin-right: 15px;
 }
 button:hover{
     cursor: pointer;
